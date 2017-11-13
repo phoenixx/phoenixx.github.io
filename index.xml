@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Phoenixx</title>
-    <link>/</link>
+    <link>https://phoenixx.github.io/</link>
     <description>Recent content on Phoenixx</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 11 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://phoenixx.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>AWS Lightsail</title>
-      <link>/blog/aws-lightsail/</link>
+      <link>https://phoenixx.github.io/blog/aws-lightsail/</link>
       <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/blog/aws-lightsail/</guid>
+      <guid>https://phoenixx.github.io/blog/aws-lightsail/</guid>
       <description>TL;DR AWS Lightsail is a really interesting concept for small businesses and developers looking to spin up a server without the added complexity of a full EC2 instance. However, the lack of complexity means a lack of configurability, so if you have even slightly complex requirements, Lightsail is not for you.
 Background I&amp;rsquo;ve been hosting sites for small local businesses and friends &amp;amp; family for quite some time now. I once had a short but torrid love affair with Umbraco as a CMS, and most of the sites I created (I don&amp;rsquo;t do new sites now, just maintain the old ones) were Umbraco-based.</description>
     </item>
